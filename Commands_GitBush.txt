@@ -12,6 +12,15 @@ git add
 git add index.html — добавляет index.html
 git add . — добавляет все файлы
 
+touch toolsqa.txt - создать новый файл toolsqa.txt
+git rm <file_name> - удалить файл
+
+git mv <original_file_name> <new_file_name>
+переименовать файл с помощью Git
+
+mv <original_file_name> <new_file_name>
+Переименовать файл вне Git
+
 git commit
 Сохраняет изменения в коммит
 
